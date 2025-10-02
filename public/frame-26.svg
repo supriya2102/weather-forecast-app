@@ -1,0 +1,24 @@
+<svg width="856" height="165" viewBox="0 0 856 165" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_80_440)">
+<path d="M12 125.888C12 125.888 62.8481 98.837 84.4357 94.9354C106.023 91.0338 138.275 66.8437 159.993 130.05C181.71 193.256 191.334 92.0742 213.702 98.1867C236.07 104.299 262.213 152 262.213 152C291.604 71.6266 281.078 31.2475 303.056 29.1667C325.033 27.0858 325.021 168.026 368.457 130.05C411.892 92.0742 402.659 53.4481 430.229 83.2305C457.798 113.013 475.521 132.908 474.444 132.781C473.368 132.654 502.173 149.323 533.485 65.8033C564.798 -17.7164 567.948 67.8841 601.109 125.888C634.271 183.892 667.433 -56.3175 696.693 41.8733C725.954 140.064 731.561 115.614 758.09 65.8032C784.62 15.9925 834.802 157.231 856 75.0371" stroke="url(#paint0_linear_80_440)" stroke-width="2"/>
+<circle cx="10.5" cy="125.5" r="4" fill="white" stroke="#FFDF28"/>
+<circle cx="162.5" cy="134.5" r="4" fill="white" stroke="#FFDF28"/>
+<circle cx="290.5" cy="39.5" r="4" fill="white" stroke="#FFDF28"/>
+<circle cx="424.5" cy="77.5" r="4" fill="white" stroke="#FFDF28"/>
+<circle cx="562.5" cy="34.5" r="4" fill="white" stroke="#FFDF28"/>
+<circle cx="474.5" cy="132.5" r="4" fill="white" stroke="#FFDF28"/>
+<circle cx="699.5" cy="50.5" r="4" fill="white" stroke="#FFDF28"/>
+<circle cx="837.5" cy="101.5" r="4" fill="white" stroke="#FFDF28"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_80_440" x1="856" y1="85" x2="12" y2="85" gradientUnits="userSpaceOnUse">
+<stop offset="0.00899736" stop-color="#0E0C01"/>
+<stop offset="0.131986" stop-color="#F5D726"/>
+<stop offset="0.880768" stop-color="#A18D19"/>
+<stop offset="1" stop-color="#0E0C01"/>
+</linearGradient>
+<clipPath id="clip0_80_440">
+<rect width="856" height="165" fill="white" transform="matrix(-1 0 0 1 856 0)"/>
+</clipPath>
+</defs>
+</svg>
